@@ -8,7 +8,4 @@ Desafio 2 - DSM - G02L
 - Oscar Daniel Soto Jovel - SJ241841
 
 ## Video
-<video width="640" height="360" controls>
-  <source src="./Desafio 02 - DSM.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+[Ver video del Desafio 02 - DSM](./Desafio 02 - DSM.mp4)
