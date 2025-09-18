@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "942316444128",
+    "firebase_url": "https://desafio02-dsm-default-rtdb.firebaseio.com",
+    "project_id": "desafio02-dsm",
+    "storage_bucket": "desafio02-dsm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942316444128:android:768a37c1106ac645107385",
+        "android_client_info": {
+          "package_name": "com.example.guia5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsSGB3QSBih-KmWtpvvRMesuc9hox1wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

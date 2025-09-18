@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">guia5</string>
+
+    <string-array name="dish_names">
+        <item>Pupusas</item>
+        <item>Nuegados</item>
+        <item>tamales</item>
+        <item>yuca</item>
+        <item>Riguas</item>
+    </string-array>
+
+    <string-array name="dish_descriptions">
+        <item>Pupusas de diferente variedad.</item>
+        <item>Deliciosos nuegos de yuca bañados en una rica salsa dulce.</item>
+        <item>Ricos tamales de pollo.</item>
+        <item>Trocante yuca frita preparada.</item>
+        <item>Rigua tradicional cocinada en leña.</item>
+    </string-array>
+
+    <string-array name="dish_prices">
+        <item>0.50 </item>
+        <item>1.50</item>
+        <item>0.50</item>
+        <item>1.80</item>
+        <item>1.25</item>
+    </string-array>
+
+    <string-array name="dish_images">
+        <item>pupusas</item>
+        <item>nuegados</item>
+        <item>tamales</item>
+        <item>yuca</item>
+        <item>riguas</item>
+    </string-array>
+
+    <!-- Strings para EditDishActivity -->
+    <string name="hint_dish_name">Nombre del platillo</string>
+    <string name="hint_dish_description">Descripción</string>
+    <string name="hint_dish_price">Precio</string>
+    <string name="hint_dish_image">Nombre de imagen (sin extensión)</string>
+    <string name="hint_dish_stock">Stock disponible</string>
+    <string name="btn_save">Guardar</string>
+
+
+    <string name="facebook_app_id">1145400734178104</string>
+    <string name="fb_login_protocol_scheme">fb1145400734178104</string>
+    <string name="facebook_client_token">6c1dd31312f989ad1d981d23119413a5</string>
+</resources>
